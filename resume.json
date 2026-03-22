@@ -1,0 +1,111 @@
+{
+  "name": "Jeonghwan Park",
+  "title": "Senior Software Engineer",
+  "contact": {
+    "email": "pjhool@naver.com",
+    "phone": "+82-10-5286-1821",
+    "location": "Suwon, Korea"
+  },
+  "education": [
+    {
+      "school": "Yonsei University",
+      "degree": "M.S. Physics"
+    },
+    {
+      "school": "POSTECH",
+      "degree": "B.S. Physics"
+    }
+  ],
+  "certifications": [
+    "PMP 2011",
+    "Engineer Info Processing 2003",
+    "e-Commerce Manager 2001",
+    "TOEIC 810"
+  ],
+  "skills": {
+    "system": [
+      "C",
+      "C++",
+      "Linux Kernel",
+      "Uboot",
+      "FPGA/EBI",
+      "NXP IMX8M",
+      "TI AM335X"
+    ],
+    "protocols": [
+      "gRPC",
+      "Protobuf",
+      "MQTT",
+      "Kafka",
+      "Redis Pub/Sub",
+      "AMQP",
+      "WebSocket",
+      "REST/HTTP",
+      "RTSP",
+      "SNMP",
+      "ONVIF",
+      "E1-HDLC",
+      "SPI/I2C"
+    ],
+    "web": [
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "React.js",
+      "AngularJS"
+    ],
+    "ai": [
+      "Python",
+      "TensorFlow",
+      "STT/TTS",
+      "NLU",
+      "LLM/GPT",
+      "vLLM"
+    ],
+    "infra": [
+      "Docker",
+      "Kubernetes",
+      "Azure",
+      "PostgreSQL",
+      "MongoDB",
+      "Redis"
+    ]
+  },
+  "languages": [
+    {
+      "name": "C/C++",
+      "start": 2001,
+      "end": 2026
+    },
+    {
+      "name": "JavaScript",
+      "start": 2013,
+      "end": 2026
+    },
+    {
+      "name": "Python",
+      "start": 2018,
+      "end": 2026
+    },
+    {
+      "name": "gRPC",
+      "start": 2020,
+      "end": 2026
+    },
+    {
+      "name": "MQTT",
+      "start": 2022,
+      "end": 2026
+    },
+    {
+      "name": "Kafka",
+      "start": 2022,
+      "end": 2026
+    },
+    {
+      "name": "AMQP",
+      "start": 2022,
+      "end": 2025
+    }
+  ]
+}

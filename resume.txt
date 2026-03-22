@@ -1,0 +1,21 @@
+JEONGHWAN PARK | Senior Software Engineer
+pjhool@naver.com | +82-10-5286-1821 | Suwon, Korea
+
+SKILLS
+  C/C++, Linux, Python, JavaScript, React, FastAPI
+  gRPC, Protobuf, MQTT, Kafka, Redis Pub/Sub, AMQP, WebSocket
+  REST, SNMP, ONVIF, E1-HDLC, SPI/I2C, SIP/IVR
+  Docker, Kubernetes, Azure, PostgreSQL, MongoDB, Redis
+  STT/TTS/NLU, LLM/GPT, vLLM, TensorFlow
+
+EDUCATION
+  Yonsei University - M.S. Physics
+  POSTECH - B.S. Physics
+
+CERTIFICATIONS
+  PMP (2011), Engineer Info Processing, TOEIC 810
+
+OVERSEAS
+  Finland (2010), UK (2009), Israel (2003)
+
+Last updated: January 2026
